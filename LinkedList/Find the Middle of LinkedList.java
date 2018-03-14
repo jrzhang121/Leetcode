@@ -1,4 +1,3 @@
-public class MiddleLinkedList {
     /*
      * @param head: the head of linked list.
      * @return: a middle node of the linked list
@@ -19,4 +18,3 @@ public class MiddleLinkedList {
         
         return slow;
     }
-}
